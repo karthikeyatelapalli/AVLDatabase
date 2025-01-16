@@ -7,7 +7,7 @@ This project implements a basic database management system (DBMS) using an AVL t
 ## **Features**
 
 1. **Efficient AVL Tree Implementation**:
-   - Self-balancing AVL tree structure ensures \( O(\log n) \) operations for insertion, deletion, and searching.
+   - Self-balancing AVL tree structure ensures \( O(log n) \) operations for insertion, deletion, and searching.
 
 2. **Database Operations**:
    - **Insert**: Add records to the database.
