@@ -1,6 +1,6 @@
 # AVL Database Management System
 
-This project implements a basic database management system (DBMS) using an AVL tree structure. The database supports operations like record insertion, deletion, searching, range queries, and finding nearest records, all in \( O(\log n) \) time. The AVL tree ensures balance through rotations, maintaining efficient performance.
+This project implements a basic database management system (DBMS) using an AVL tree structure. The database supports operations like record insertion, deletion, searching, range queries, and finding nearest records, all in \( O(log n) \) time. The AVL tree ensures balance through rotations, maintaining efficient performance.
 
 ---
 
